@@ -15,6 +15,7 @@
 ## Introduction
 Make a chatbot for your online store effortlessly using OpenAI. This easy-to-follow guide simplifies the process, whether you're a seasoned developer or a beginner. Boost customer interaction and streamline the online shopping journey with your own AI-powered ShopBot. Turn your e-commerce site into a customer-friendly destination without hassle!
 
+![ecom_chatbot](https://ideainyou.com/wp-content/uploads/2022/12/Ecommerce-Chatbots-How-to-Improve-the-Usability-of-Your-Web-Store-1-2.png)
 
 ## Getting Started
 To interact with ShopBot and explore our product catalog, you need to have your OpenAI API key. Follow these steps to get started:
@@ -33,8 +34,22 @@ Interact with ShopBot through the provided chat interface. Ask about products, s
 
 ![demo_shopbot](demo_shopbot.gif)
 
+## Reference:
+- Find the complete code on this [GitHub repository](https://github.com/yennhi95zz/e-commerce-chatbot-using-openai/tree/main).
+- Explore a detailed explanation in my [Medium article](https://medium.com/@yennhi95zz/how-to-create-a-simple-chatbot-for-e-commerce-using-openai-aa0539b9875b).
+
+Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
 
 ## Contributing
 You are welcomed for contributions! If you have ideas for improvements or new features, please open an issue or submit a pull request. Let's make ShopBot even better together! 🚀
+
+----
+Your support by giving this project a ⭐ is greatly appreciated and helps spread knowledge to others. If you found the article interesting, feel free to comment with your insights and share it with your network.
+
+☕ [Buy Me a Coffee](https://paypal.me/yennhi95zz)
+
+Thank you for your interest in this project, and I hope you find it informative and valuable for your machine learning journey.
