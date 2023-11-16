@@ -1,16 +1,19 @@
 # ShopBot: Building an E-commerce Chatbot with Python and OpenAI
 
 ![Author](https://img.shields.io/badge/Author-Nhi%20Yen-brightgreen)
-[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@nhiyen)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/nhiyen95)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/nhiyen95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/nhiyen95/)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@yennhi95zz/subscribe)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/yennhi95zz)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/nhiyen/code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yennhi95zz/)
 
 ## Table of Contents
 1. Introduction
 2. Getting Started
 3. How ShopBot Works
 4. Chat with ShopBot
+5. Reference
+6. License
+7. Contributing
 
 ## Introduction
 Make a chatbot for your online store effortlessly using OpenAI. This easy-to-follow guide simplifies the process, whether you're a seasoned developer or a beginner. Boost customer interaction and streamline the online shopping journey with your own AI-powered ShopBot. Turn your e-commerce site into a customer-friendly destination without hassle!
@@ -22,8 +25,10 @@ To interact with ShopBot and explore our product catalog, you need to have your 
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Set up your OpenAI API key in the .env file.
-`MY_OPENAI_KEY=your_openai_api_key`
+3. Set up your OpenAI API key in the `.env` file.
+
+    `MY_OPENAI_KEY=your_openai_api_key`
+
 4. Run the code and start chatting with ShopBot!
 
 ## How ShopBot Works
@@ -40,6 +45,7 @@ Interact with ShopBot through the provided chat interface. Ask about products, s
 
 Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
 
+For a more advanced e-commerce chatbot, additional training is necessary. Comet LLM simplifies the development of Chatbot Language Models, enhancing your workflow by serving as a valuable tool for logging, visualizing prompts and chains. It helps identify effective strategies, streamline troubleshooting, and ensure workflow reproducibility, providing insights for efficient model development and optimization.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
