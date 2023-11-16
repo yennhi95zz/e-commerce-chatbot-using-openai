@@ -31,8 +31,7 @@ ShopBot utilizes OpenAI's powerful language model to engage in natural and frien
 ## Chat with ShopBot
 Interact with ShopBot through the provided chat interface. Ask about products, seek recommendations, or inquire about ongoing promotions. ShopBot is here to make your online shopping journey enjoyable!
 
-![demo_shopbot](/workspaces/e-commerce-chatbot-using-openai/demo_shopbot.gif)
-
+![demo_shopbot](demo_shopbot.gif)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
