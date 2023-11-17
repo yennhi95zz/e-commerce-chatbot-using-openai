@@ -45,7 +45,7 @@ Interact with ShopBot through the provided chat interface. Ask about products, s
 
 Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
 
-For a more advanced e-commerce chatbot, additional training is necessary. Comet LLM simplifies the development of Chatbot Language Models, enhancing your workflow by serving as a valuable tool for logging, visualizing prompts and chains. It helps identify effective strategies, streamline troubleshooting, and ensure workflow reproducibility, providing insights for efficient model development and optimization.
+For a more advanced e-commerce chatbot, additional training is necessary. Comet LLM simplifies the development of Chatbot Language Models, enhancing your workflow by serving as a valuable tool for logging, visualizing prompts and chains. It helps identify effective strategies, streamline troubleshooting, and ensure workflow reproducibility, providing insights for efficient model development and optimization.[READ MORE](https://github.com/comet-ml/comet-llm)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
