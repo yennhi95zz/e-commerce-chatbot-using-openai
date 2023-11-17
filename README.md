@@ -39,13 +39,15 @@ Interact with ShopBot through the provided chat interface. Ask about products, s
 
 ![demo_shopbot](demo_shopbot.gif)
 
+In this project, I'm using `comet_llm` to keep track of what users ask, how the bot responds, and how long each interaction takes. The information is logged to this [comet project](https://www.comet.com/yennhi95zz/ecom-shopbot-openai). This helps in improving the model for future training. You can learn more about experiment tracking with [Comet LLM](https://github.com/comet-ml/comet-llm).
+
 ## Reference:
 - Find the complete code on this [GitHub repository](https://github.com/yennhi95zz/e-commerce-chatbot-using-openai/tree/main).
 - Explore a detailed explanation in my [Medium article](https://medium.com/@yennhi95zz/how-to-create-a-simple-chatbot-for-e-commerce-using-openai-aa0539b9875b).
 
 Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
 
-For a more advanced e-commerce chatbot, additional training is necessary. Comet LLM simplifies the development of Chatbot Language Models, enhancing your workflow by serving as a valuable tool for logging, visualizing prompts and chains. It helps identify effective strategies, streamline troubleshooting, and ensure workflow reproducibility, providing insights for efficient model development and optimization.[READ MORE](https://github.com/comet-ml/comet-llm)
+For a more advanced e-commerce chatbot, additional training is necessary. Comet LLM simplifies the development of Chatbot Language Models, enhancing your workflow by serving as a valuable tool for logging, visualizing prompts and chains. It helps identify effective strategies, streamline troubleshooting, and ensure workflow reproducibility, providing insights for efficient model development and optimization. [READ MORE](https://github.com/comet-ml/comet-llm)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
