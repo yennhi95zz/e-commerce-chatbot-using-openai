@@ -83,6 +83,9 @@ web_modules/
 .env.production.local
 .env.local
 
+# comet api
+.comet.config
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
