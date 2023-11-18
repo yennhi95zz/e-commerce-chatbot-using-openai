@@ -43,7 +43,7 @@ In this project, I'm using `comet_llm` to keep track of what users ask, how the 
 
 ## Reference:
 - Find the complete code on this [GitHub repository](https://github.com/yennhi95zz/e-commerce-chatbot-using-openai/tree/main).
-- Explore a detailed explanation in my [Medium article](https://medium.com/@yennhi95zz/how-to-create-a-simple-chatbot-for-e-commerce-using-openai-aa0539b9875b).
+- Explore a detailed explanation in my [Medium article](https://heartbeat.comet.ml/how-to-create-a-simple-chatbot-for-e-commerce-using-openai-aa0539b9875b).
 
 Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
 
